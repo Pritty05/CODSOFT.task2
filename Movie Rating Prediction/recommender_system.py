@@ -1,7 +1,3 @@
-#Before Proceeding you need to download the datasets from https://www.kaggle.com/netflix-inc/netflix-prize-data
-#Otherwise errors will be thrown
-"""
-
 # To store the data
 import pandas as pd
 
